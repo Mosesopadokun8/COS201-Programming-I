@@ -1,4 +1,4 @@
-public class FirstProgram {
+public class week01/FirstProgram {
     public static void main(String[] args) {
         System.out.println("Course: COS 201 - Computer Programming I");
         System.out.println("Programme: Cybersecurity");
